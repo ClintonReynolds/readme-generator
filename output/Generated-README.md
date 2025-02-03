@@ -1,9 +1,9 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# Readme.md generator
+# Readme Generator
 
 ## Description
-a readme generator that is helpful
+This application guides you through a series of prompts to create a README file with ease.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,17 +14,23 @@ a readme generator that is helpful
   - [Questions](#questions)
 
 ## Installation
-inquirer
+version of Node.js installed. git clone https://github.com/ClintonReynolds/readme-generator
+
 ## Usage
-spending less time on read me
+Helping speed up the time it takes to make a README.md and allowing more time for actual coding
+
 ## Contribution
-n/a
+This will be a solo project
+
 ## Tests
-no tests today
+All tests were done while creating the project
+
 ## License
 This project is licensed under the MIT License license.
-      for more info, click on thi link: (https://opensource.org/licenses/MIT)
+      For more info, click on the link: (https://opensource.org/licenses/MIT)
 
 ##Questions
-If you have any questions, please contact me at [eastwood](mailto:eastwood). You can also find more of my work at clint .
+If you have any questions, please contact me at [Eastwood188209@gmail.com](mailto:Eastwood188209@gmail.com). You can also find more of my work at https://github.com/ClintonReynolds.
 
+Walkthrough Video
+Click on the link to watch the walkthrough video of the README Generator:

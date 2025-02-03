@@ -1,7 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Readme Generator
 
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-# asdadfasdfa
-  asdfasdfsdf
+## Description
+This application guides you through a series of prompts to create a README file with ease.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -12,17 +13,24 @@
   - [Questions](#questions)
 
 ## Installation
-asdfasdfsdfa
+version of Node.js installed. git clone https://github.com/ClintonReynolds/readme-generator
+
 ## Usage
-undefined
+Helping speed up the time it takes to make a README.md and allowing more time for actual coding
+
 ## Contribution
-undefined
+This will be a solo project
+
 ## Tests
-undefined
+All tests were done while creating the project
+
 ## License
-This project is licensed under the Apache License 2.0 license.
-      for more info, click on thi link: (https://opensource.org/licenses/Apache-2.0)
+This project is licensed under the MIT License license.
+      For more info, click on the link: (https://opensource.org/licenses/MIT)
 
 ##Questions
-If you have any questions, please contact me at [asdfasffsafs](mailto:asdfasffsafs). You can also find more of my work at undefined.
+If you have any questions, please contact me at [Eastwood188209@gmail.com](mailto:Eastwood188209@gmail.com). You can also find more of my work at https://github.com/ClintonReynolds.
+
+Walkthrough Video
+Click on the link to watch the walkthrough video of the README Generator:
 
