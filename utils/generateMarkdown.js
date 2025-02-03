@@ -80,7 +80,7 @@ ${data.test}
 ${renderLicenseSection(data.license)}
 
 ## Questions
-If you have any questions, please contact me at ${data.email}(mailto:${data.email}). You can also find more of my work at ${data.github}.
+If you have any questions, please contact me at ${data.email}. You can also find more of my work at ${data.github}.
 
 `;
 }

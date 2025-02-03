@@ -1,9 +1,9 @@
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# Readme Generator
+![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+# asdfasdfasfsd
 
 ## Description
-This application guides you through a series of prompts to create a README file with ease.
+sdfasdfasfs
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,23 +14,21 @@ This application guides you through a series of prompts to create a README file 
   - [Questions](#questions)
 
 ## Installation
-version of Node.js installed. git clone https://github.com/ClintonReynolds/readme-generator
+fasdfasdf s
 
 ## Usage
-Helping speed up the time it takes to make a README.md and allowing more time for actual coding
+sdfas dfasdfasf
 
 ## Contribution
-This will be a solo project
+thhtreh herh
 
 ## Tests
-All tests were done while creating the project
+ertherthrth
 
 ## License
-This project is licensed under the MIT License license.
-      For more info, click on the link: (https://opensource.org/licenses/MIT)
+This project is licensed under the BSD 3-Clause License license.
+      For more info, click on the link: (https://opensource.org/licenses/BSD-3-Clause)
 
 ## Questions
-If you have any questions, please contact me at [Eastwood188209@gmail.com](mailto:Eastwood188209@gmail.com). You can also find more of my work at https://github.com/ClintonReynolds.
+If you have any questions, please contact me at eastwood188209@gmail.com. You can also find more of my work at rtherthrther.
 
-Walkthrough Video
-Click on the link to watch the walkthrough video of the README Generator:

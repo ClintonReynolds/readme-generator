@@ -29,8 +29,9 @@ This project is licensed under the MIT License license.
       For more info, click on the link: (https://opensource.org/licenses/MIT)
 
 ## Questions
-If you have any questions, please contact me at [Eastwood188209@gmail.com](mailto:Eastwood188209@gmail.com). You can also find more of my work at https://github.com/ClintonReynolds.
+If you have any questions, please contact me at [Eastwood188209@gmail.com]. You can also find more of my work at https://github.com/ClintonReynolds.
 
-Walkthrough Video
+## Walkthrough Video
 Click on the link to watch the walkthrough video of the README Generator:
+
 
