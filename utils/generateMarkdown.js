@@ -14,7 +14,8 @@ function renderLicenseBadge(license) {
     return "![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)";
   default:
     return "";
-}}
+ }
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -42,16 +43,18 @@ function renderLicenseSection(license) {
     return "";
   } else {
     return (`This project is licensed under the ${license} license.
-      for more info, click on thi link: ${renderLicenseLink(license)}`)
-
-}}
+      For more info, click on the link: ${renderLicenseLink(license)}`)
+  }
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
 return `
 ${renderLicenseBadge(data.license)}
 # ${data.title}
-  ${data.description}
+
+## Description
+${data.description}
   
   ## Table of Contents
   - [Installation](#installation)
@@ -63,12 +66,16 @@ ${renderLicenseBadge(data.license)}
 
 ## Installation
 ${data.installation}
+
 ## Usage
 ${data.usage}
+
 ## Contribution
 ${data.contribution}
+
 ## Tests
 ${data.test}
+
 ## License
 ${renderLicenseSection(data.license)}
 
