@@ -79,8 +79,8 @@ ${data.test}
 ## License
 ${renderLicenseSection(data.license)}
 
-##Questions
-If you have any questions, please contact me at [${data.email}](mailto:${data.email}). You can also find more of my work at ${data.github}.
+## Questions
+If you have any questions, please contact me at ${data.email}(mailto:${data.email}). You can also find more of my work at ${data.github}.
 
 `;
 }
