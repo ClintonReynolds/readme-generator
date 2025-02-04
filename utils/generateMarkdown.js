@@ -73,7 +73,7 @@ ${data.usage}
 ## Contribution
 ${data.contribution}
 
-## Tests
+## Test
 ${data.test}
 
 ## License
